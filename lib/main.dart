@@ -9,7 +9,7 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
     statusBarColor:
-        Color.fromARGB(255, 58, 58, 111), // Change this color as needed
+        Color.fromARGB(255, 181, 178, 178), // Change this color as needed
   ));
   runApp(MyApp());
 }
@@ -31,6 +31,9 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     MediaQueryData m1 = MediaQuery.of(context);
     return MaterialApp(
+      routes: {
+        'home': (context) => Home(m1: m1),
+      },
       title: 'Theme Switcher',
       debugShowCheckedModeBanner: false,
       theme: isdark
@@ -38,7 +41,7 @@ class _MyAppState extends State<MyApp> {
               textTheme: TextTheme(
                   displayLarge: TextStyle(
                       fontFamily: 'Inter',
-                      fontWeight: FontWeight.w200,
+                      fontWeight: FontWeight.w300,
                       color: Colors.white,
                       fontSize: m1.size.height / 20,
                       textBaseline: TextBaseline.alphabetic),
