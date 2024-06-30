@@ -11,6 +11,8 @@ This project was developed as part of a Teaching Assistant role under the guidan
 - **Design:** [Val Didar Singh](https://github.com/valdidar) (Designed in Figma)
 - **Development:** [Navneet Singla](https://github.com/Unknowncoder09) (Developed in Flutter)
 
+<img width="187" alt="image" src="https://github.com/Unknowncoder09/BITSADMISSION/assets/95515558/a3ff7edb-7187-416a-b5c6-60a24cf9257d">
+
 ## Project Overview
 The application aims to provide a centralized platform for storing and accessing information related to BITS Admissions. The design was meticulously crafted in Figma, ensuring a seamless user experience, and then brought to life using Flutter.
 
