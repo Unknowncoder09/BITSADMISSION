@@ -47,7 +47,7 @@ To run the Flutter project, follow these instructions:
 For any queries or further information, please reach out to:
 - **Val Didar Singh:** [GitHub Profile](https://github.com/valdidar)
 - **Navneet Singla:** [GitHub Profile](https://github.com/Unknowncoder09)
-- 
+
 ---
 
 This project is maintained by Navneet Singla and Val Didar Singh.
