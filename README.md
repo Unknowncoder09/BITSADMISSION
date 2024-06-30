@@ -1,5 +1,3 @@
-Here's an improved version of your README:
-
 # BITS Admission Application
 
 This project was developed as part of a Teaching Assistant role under the guidance of Dr. Vishal Gupta from the BITS Pilani Admission Division. The role involved:
